@@ -1,0 +1,6 @@
+{
+  "name": "Validador de Ideas",
+  "description": "Validador inteligente de ideas de negocio con análisis de innovación, viabilidad, competencia, público objetivo y pasos accionables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
